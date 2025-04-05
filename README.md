@@ -46,5 +46,5 @@ O Password Generator é ideal para quem busca praticidade e segurança na criaç
 <h2>© Direitos Autorais</h2>
 
 ⚙ Os direitos autorais desta aplicação são reservados à [@Nikolas Wintter](https://www.linkedin.com/in/nikolas-wintter-2608a8317/) <br> 
-🖌 Imagem da logo postada por [@lalawidi](https://br.freepik.com)
+🖌 Imagem da logo postada por [@lalawidi](https://br.freepik.com/autor/lalawidi/icones)
 
